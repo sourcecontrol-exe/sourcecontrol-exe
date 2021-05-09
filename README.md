@@ -1,4 +1,4 @@
-### Hi there 👋🏾  welcome to my Github! I like to write in Javascript and I'm exploring Cloud Tech 🐍 ☁️
+### Hi there 👋🏾  welcome to my Github!
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
