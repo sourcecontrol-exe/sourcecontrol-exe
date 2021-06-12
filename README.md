@@ -1,7 +1,7 @@
 ### Hi there 👋🏾  welcome to my Github!
 
 <p align="center">
-  <img width="250" src="https://gph.is/g/EGdXqpJ">
+  <img width="250" src="https://gph.is/g/EGd7Ben">
 </p>
 
 - 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination.
