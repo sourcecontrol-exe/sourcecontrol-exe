@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination.
 - 💬 Love to learn a little about everything.
-- 📚 Currently reading Deep Work by Cal Newport.
+- 📚 Currently reading Designing Data Intensive Applications by Martin Kleppmann.
 - 📫 Reach me out: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetabh.subham@gmail.com)](mailto:swetabh.subham@gmail.com)
 
 
